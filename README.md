@@ -3,5 +3,4 @@
 
 ### Contents
 1. Database
-2. Intermediate Python Programming
-3. Advanced Python Programming
+2. Python Programming
