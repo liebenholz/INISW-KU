@@ -1,4 +1,4 @@
-# INISW-KU
+## Lecture Introduction
 6th Intelligence &amp; Information Software Academy, Korea University.
 
 ## Course Contents
