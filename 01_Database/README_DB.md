@@ -1,7 +1,8 @@
 ## Database
 A collection of interrelated data, a set of integrated, stored, shared and operational data.
 
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white">
+
 
 ## Introduction to Database
 ### Condition of Database
@@ -56,4 +57,8 @@ DCL(Control, 제어)
 [Practice Notebook by SQLite3](https://github.com/liebenholz/INISW-KU/blob/main/01_Database/DB_0305.ipynb)
 
 ## ORM, RE
-
+Object Relational Mapping
+- **Programming technique** for converting data between incompatible type systems using objectoriented programming languages 
+- Automatically mapping the database to business objects
+- Programmers **focus more on business problems** and **less with data storage**
+- 테이블 간의 관계보다 **데이터베이스 처리**에 집중해서 서비스를 제작할 것
