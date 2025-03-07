@@ -65,8 +65,6 @@ Object Relational Mapping
   - [SNS System Integration Example: Why we should use ORM?](https://github.com/liebenholz/INISW-KU/blob/main/01_Database/DB_0306-SNS.ipynb)
 
 ### SQLAlchemy 
-- SQLAlchemy is a well-regarded database toolkit and ORM implementation written in Python
-- SQLAlchemy provides a generalized interface for creating and executing database-agnostic code
-without needing to write SQL statements.
+SQLAlchemy is a well-regarded database toolkit and ORM implementation written in Python, and provides a generalized interface for creating and executing database-agnostic code **without needing to write SQL statements.**
 
-[SQLAlchemy Core Practice Notebook](https://github.com/liebenholz/INISW-KU/blob/main/01_Database/DB_0306.ipynb)
+- SQLAlchemy Core Practice Notebook [(1)](https://github.com/liebenholz/INISW-KU/blob/main/01_Database/DB_0306.ipynb) [(2)](https://github.com/liebenholz/INISW-KU/blob/main/01_Database/DB_0307.ipynb) [[SNS]](https://github.com/liebenholz/INISW-KU/blob/main/01_Database/DB_0307-SNS.ipynb)
