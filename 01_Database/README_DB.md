@@ -62,7 +62,7 @@ Object Relational Mapping
 - Automatically mapping the database to business objects
 - Programmers **focus more on business problems** and **less with data storage**
 - 테이블 간의 관계보다 **데이터베이스 처리**에 집중해서 서비스를 제작할 것
-  - [SNS System Integration Example: Why we should use ORM?](https://github.com/liebenholz/INISW-KU/blob/main/01_Database/DB_0306-SNS.ipynb)
+  - [SNS System Integration Example: Why we should use ORM](https://github.com/liebenholz/INISW-KU/blob/main/01_Database/DB_0306-SNS.ipynb)
 
 ### SQLAlchemy 
 SQLAlchemy is a well-regarded database toolkit and ORM implementation written in Python, and provides a generalized interface for creating and executing database-agnostic code **without needing to write SQL statements.**
