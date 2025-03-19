@@ -3,7 +3,7 @@
 **3/19 오전**
 - 딥러닝 요약 강의
 - 자연어처리 이해
-  - tf-idf, word2vec, dox2vec
+  - TF_IDF, Word2Vec, Doc2Vec
   - [Seq2Seq](https://wikidocs.net/24996)  
 
 **3/28 오전 오후**
