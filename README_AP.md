@@ -4,7 +4,8 @@
 - 딥러닝 요약 강의
 - 자연어처리 이해
   - TF-IDF, Word2Vec, Doc2Vec
-  - [Seq2Seq](https://wikidocs.net/24996)  
+  - [Seq2Seq](https://wikidocs.net/24996)
+  - [Attention](https://wikidocs.net/22893)
 
 **3/28 오전 오후**
 - 딥러닝 트랜스포머 모델 강의 + 기계번역
