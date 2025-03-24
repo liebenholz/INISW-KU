@@ -7,3 +7,4 @@
 3. [Data Collection](https://github.com/liebenholz/INISW-KU/blob/main/03_Data-Collection/README_DC.md)
 4. [Data Processing](https://github.com/liebenholz/INISW-KU/blob/main/04_Data-Processing/README_DP.md)
 5. [Audio Processing](https://github.com/liebenholz/INISW-KU/blob/main/05_Audio-Processing/README_AP.md)
+6. Text Processing
