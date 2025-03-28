@@ -15,6 +15,8 @@
   - K = Keys : 모든 시점의 인코더 셀의 은닉 상태들
   - V = Values : 모든 시점의 인코더 셀의 은닉 상태들
 - [Transformer](https://wikidocs.net/31379)
+  - [BERT: Stacking Encoder](https://wikidocs.net/115055)
+  - [GPT: Decoder Based](https://wikidocs.net/184363)
 
 **4/4(금) 오전**
 - 오디오 신호처리 이해
