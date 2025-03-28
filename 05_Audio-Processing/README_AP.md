@@ -23,3 +23,7 @@
 - 네이버재단 부스트코스
 - 모두의 딥러닝 시즌2
 - 밑바닥부터 시작하는 딥러닝2
+
+## 관련 논문
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+- [NLP in Korean](https://nlpinkorean.github.io/illustrated-transformer/)
