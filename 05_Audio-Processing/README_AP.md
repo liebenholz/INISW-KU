@@ -14,6 +14,7 @@
   - Q = Query : t 시점의 디코더 셀에서의 은닉 상태
   - K = Keys : 모든 시점의 인코더 셀의 은닉 상태들
   - V = Values : 모든 시점의 인코더 셀의 은닉 상태들
+- [Transformer](https://wikidocs.net/31379)
 
 **4/4(금) 오전**
 - 오디오 신호처리 이해
