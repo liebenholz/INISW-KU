@@ -10,7 +10,7 @@
 
 **3/28(금) 오전 오후**
 딥러닝 트랜스포머 모델 강의
-- [Attention](https://wikidocs.net/22893) Attention(Q, K, V)
+- [Attention](https://wikidocs.net/22893)(Q, K, V)
   - Q = Query : t 시점의 디코더 셀에서의 은닉 상태
   - K = Keys : 모든 시점의 인코더 셀의 은닉 상태들
   - V = Values : 모든 시점의 인코더 셀의 은닉 상태들
