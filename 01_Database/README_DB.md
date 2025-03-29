@@ -56,7 +56,7 @@ DCL(Control, 제어)
 
 [Practice Notebook by SQLite3](https://github.com/liebenholz/INISW-KU/blob/main/01_Database/DB_0305.ipynb)
 
-## ORM, RE
+## ORM
 Object Relational Mapping
 - **Programming technique** for converting data between incompatible type systems using objectoriented programming languages 
 - Automatically mapping the database to business objects
