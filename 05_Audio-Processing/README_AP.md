@@ -24,9 +24,11 @@
   - [음성인식 입문하기-pyy0715](https://pyy0715.github.io/Audio/)
   - [AI Hub](https://www.aihub.or.kr/aihubdata/data/list.do?pageIndex=1&currMenu=115&topMenu=100&dataSetSn=&srchdataClCode=DATACL001&srchDataRealmCode=REALM002&srchDataTy=DATA004&searchKeyword=&srchDetailCnd=DETAILCND001&srchOrder=ORDER001&srchPagePer=20)
 - 딥러닝 음성인식 및 음성합성
+  - [Speech Transformer](https://github.com/sooftware/speech-transformer)
+  - [WaveNet](https://deepmind.google/research/breakthroughs/wavenet/)
 
 **4/10(목) 오전**
-- (??) 딥러닝 음성인식 및 음성합성(실습)
+- (딥러닝 음성인식 및 음성합성(실습)
 
 ## 관련 강의 및 도서
 - 네이버재단 부스트코스
