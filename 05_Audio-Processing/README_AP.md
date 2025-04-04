@@ -25,7 +25,7 @@
   - [AI Hub](https://www.aihub.or.kr/aihubdata/data/list.do?pageIndex=1&currMenu=115&topMenu=100&dataSetSn=&srchdataClCode=DATACL001&srchDataRealmCode=REALM002&srchDataTy=DATA004&searchKeyword=&srchDetailCnd=DETAILCND001&srchOrder=ORDER001&srchPagePer=20)
 - 딥러닝 음성인식 및 음성합성
   - [Speech Transformer](https://github.com/sooftware/speech-transformer)
-  - [WaveNet](https://deepmind.google/research/breakthroughs/wavenet/)
+  - [WaveNet](https://deepmind.google/research/breakthroughs/wavenet/) [ElevenLabs](https://elevenlabs.io/)
 
 **4/10(목) 오전**
 - (딥러닝 음성인식 및 음성합성(실습)
