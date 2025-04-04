@@ -3,7 +3,8 @@
 **3/19(수) 오전**
 딥러닝 요약 강의
 - [Perceptron](https://wikidocs.net/24958), [RNN](https://wikidocs.net/48558)
-- [Tensorflow Playground](https://playground.tensorflow.org/) 
+- [Tensorflow Playground](https://playground.tensorflow.org/)
+  
 자연어처리 이해
 - [TF-IDF](https://wikidocs.net/31698), [Word2Vec](https://wikidocs.net/22660)
 - [Seq2Seq](https://wikidocs.net/24996)
